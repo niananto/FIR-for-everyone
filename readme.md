@@ -36,9 +36,15 @@ Let's check out the modes ~
 
 ![](screenshots/An-old-tale.png)  
 
-##
+## Screenshots
 
-![](screenshots/About.png){:height="150px"} ![](screenshots/Hall-of-fame.png){:height="150px"} ![](screenshots/Main-menu.png){:height="150px"} ![](screenshots/New-game.png){:height="150px"} ![](screenshots/Rules.png){:height="150px"} ![](screenshots/Settings.png){:height="150px"} ![](screenshots/Winning-moment.png){:height="150px"} 
+![](screenshots/About.png)
+![](screenshots/Hall-of-fame.png)
+![](screenshots/Main-menu.png)
+![](screenshots/New-game.png)
+![](screenshots/Rules.png)
+![](screenshots/Settings.png)
+![](screenshots/Winning-moment.png) 
 
 ## Requirements  
 
