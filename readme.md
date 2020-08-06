@@ -18,33 +18,33 @@ Let's check out the modes ~
 
 1. **Under the night sky** : This is the basic mode where things stated above are going to happen only, no extra surprise!   
 
-![](screenshots/Under-the-night-sky.png)
+![](./screenshots/Under-the-night-sky.png)
 
 2. **Come float with me** : The game has to be finished in a certain amount of time. There'll be a level sliding upward and once it gets passed a whole row of the holes, all the buttons of both of the players will move one row higher. Thus, the game will end when the level crosses the whole board or one of the two players win.  
 
-![](screenshots/Come-float-with-me.png)
+![](./screenshots/Come-float-with-me.png)
 
 3. **Deal the blocks** : There's going to be some blocks in some of the holes. Buttons cannot pass them and will stuck over them. So, players will certainly not have all of the board to play and that's whay have to use there vision in order to win.  
 
-![](screenshots/Deal-the-blocks.png)
+![](./screenshots/Deal-the-blocks.png)
 
 4. **White like snow** : The game is so simple and normal but don't blame me if some of the buttons get freezed all of a sudden!  
 
-![](screenshots/White-like-snow.png)
+![](./screenshots/White-like-snow.png)
 
 5. **An old tale** : Aaron and Julian are playing Four In A Row in this wonderful evening. Let's see who wins!  
 
-![](screenshots/An-old-tale.png)  
+![](./screenshots/An-old-tale.png)  
 
 ## Screenshots
 
-![](screenshots/About.png)
-![](screenshots/Hall-of-fame.png)
-![](screenshots/Main-menu.png)
-![](screenshots/New-game.png)
-![](screenshots/Rules.png)
-![](screenshots/Settings.png)
-![](screenshots/Winning-moment.png) 
+![](./screenshots/About.png)
+![](./screenshots/Hall-of-fame.png)
+![](./screenshots/Main-menu.png)
+![](./screenshots/New-game.png)
+![](./screenshots/Rules.png)
+![](./screenshots/Settings.png)
+![](./screenshots/Winning-moment.png) 
 
 ## Requirements  
 
