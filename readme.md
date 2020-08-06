@@ -17,15 +17,31 @@ Now, one of the players win if they can get four of there buttons in a horizonta
 Let's check out the modes ~  
 
 1. This is the basic mode where things stated above are going to happen only, no extra surprise!   
+
+![](screenshots/Under-the-night-sky.png)
+
 2. The game has to be finished in a certain amount of time. There'll be a level sliding upward and once it gets passed a whole row of the holes, all the buttons of both of the players will move one row higher. Thus, the game will end when the level crosses the whole board or one of the two players win.  
+
+![](screenshots/Come-float-with-me.png)
+
 3. There's going to be some blocks in some of the holes. Buttons cannot pass them and will stuck over them. So, players will certainly not have all of the board to play and that's whay have to use there vision in order to win.  
+
+![](screenshots/Deal-the-blocks.png)
+
 4. The game is so simple and normal but don't blame me if some of the buttons get freezed all of a sudden!  
+
+![](screenshots/White-like-snow.png)
+
 5. Aaron and Julian are playing Four In A Row in this wonderful evening. Let's see who wins!  
+
+![](screenshots/An-old-tale.png)
 
 ## Requirements  
 
 Platform : Windows only  
 Ram : No specific requirement (4GB recommended)  
 CPU : No specific requirement  
+
+##  
 
 *In order to get the source file, contact me through mail : nazmulislamananto@gmail.com*
