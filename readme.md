@@ -18,7 +18,7 @@ Let's check out the modes ~
 
 1. **Under the night sky** : This is the basic mode where things stated above are going to happen only, no extra surprise!   
 
-![](https://github.com/nazmulislamananto/FIR-for-everyone/screenshots/Under-the-night-sky.png)
+![](https://github.com/nazmulislamananto/FIR-for-everyone/blob/master/screenshots/Under-the-night-sky.png)
 
 2. **Come float with me** : The game has to be finished in a certain amount of time. There'll be a level sliding upward and once it gets passed a whole row of the holes, all the buttons of both of the players will move one row higher. Thus, the game will end when the level crosses the whole board or one of the two players win.  
 
