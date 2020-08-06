@@ -34,7 +34,11 @@ Let's check out the modes ~
 
 5. **An old tale** : Aaron and Julian are playing Four In A Row in this wonderful evening. Let's see who wins!  
 
-![](screenshots/An-old-tale.png)
+![](screenshots/An-old-tale.png)  
+
+##
+
+![](screenshots/About.png){:height="150px"} ![](screenshots/Hall-of-fame.png){:height="150px"} ![](screenshots/Main-menu.png){:height="150px"} ![](screenshots/New-game.png){:height="150px"} ![](screenshots/Rules.png){:height="150px"} ![](screenshots/Settings.png){:height="150px"} ![](screenshots/Winning-moment.png){:height="150px"} 
 
 ## Requirements  
 
