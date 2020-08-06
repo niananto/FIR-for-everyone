@@ -1,4 +1,5 @@
 # Four In A Row  
+[![HitCount](http://hits.dwyl.com/nazmulislamananto/FIR-for-everyone.svg)](http://hits.dwyl.com/nazmulislamananto/FIR-for-everyone)  
 
 A 2D Abstract Strategy Game made in C/C++  
 
